@@ -41,6 +41,9 @@ Goal-oriented and highly motivated , Fast self learner, Good team player, Time a
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minnehkamau&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="minnehkamau" /></p>
 
+### Get in touch:
+
+ 📫 minnieches08@gmail.com
 
 <h3 align="left">Support:</h3>
 <p align="center"><a href="https://bmc.link/minniewrit4"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="minnehkamau" /></a></p>
